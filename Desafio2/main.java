@@ -7,6 +7,4 @@ public class main {
         bankNotesCalculator.printNotes();
         bankNotesCalculator.printCoins();
     }
-
-
 }
